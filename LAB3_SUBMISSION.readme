@@ -1,0 +1,10 @@
+LAB 3 SUBMISSION FILES
+======================
+
+Student: Karan Maheshwari
+SRN: PES2UG24CS216
+Class: 5 D
+
+Architecture selected: Layered Architecture.
+Components: User Interface, Order Manager, Payment Service, Database, Receipt Printer.
+Interfaces: Order API, Payment API, Data Access, Print API.
